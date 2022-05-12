@@ -3,18 +3,21 @@
 <div align="center">
   <a href="https://github.com/Arthur-Leoni">
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=arthur-leoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true'"/>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Leoni&layout=compact&langs_count=7&theme=dark"/>
+ <!-- <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Leoni&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Arthur-docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Arthur-spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Arthur-kafka" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
+  <img align="center" alt="Arthur-docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Arthur-aws" height="60" width="80" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
   <img align="center" alt="Arthur-mysql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Arthur-postgres" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Arthur-PHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Arthur-spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Arthur-html5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Arthur-html5" height="60" width="80" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
+  <img align="center" alt="Arthur-css" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  
+  
 
   
  <!-- <img align="right" alt="Arthur-pic" height="150" style="border-radius:50px;" src=""> -->
