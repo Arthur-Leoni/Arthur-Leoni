@@ -1,10 +1,5 @@
 ## 👋 Hi, I’m Arthur Leoni
 
-<div align="center">
-  <a href="https://github.com/Arthur-Leoni">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=arthur-leoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true'"/>
- <!-- <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Leoni&layout=compact&langs_count=7&theme=dark"/> -->
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Arthur-spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
